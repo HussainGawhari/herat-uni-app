@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+.navbar ul li{
+  /* background: #262626; */
+  width: 190px;
+  border: 1px solid #fff;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: crimson;
+  font-size: 16px;
+  position: relative;
+  font-family: big john;
+  text-decoration: none;
+  color:blue;
+  margin: 2px;
+
+}
+.navbar ul li ul li{
+  text-decoration: none;
+  background: rgb(233, 243, 233);
+  font-size: 16px;
+  
+}
+
+.navbar ul li ul li:hover a{
+  color: black;
+}
+.navbar ul li:hover{
+  background: crimson;
+  border-radius: 5px;
+  
+  
+  
+}
+
+.navbar ul li a{
+  text-decoration: none;
+
+}
+
+.navbar ul ul{
+  display: none;
+  
+}
+
+.dropdown1:hover ul{
+display: block;
+text-decoration: none;
+cursor: pointer;
+/* background: rgb(70, 43, 226); */
+font-size: 16px;
+color: cornsilk;
+}
+

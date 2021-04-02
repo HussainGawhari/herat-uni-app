@@ -1,0 +1,42 @@
+
+
+
+
+
+.main{
+  width: 100%;
+  height: 70%;
+  /* background-color: #4ccee8; */
+}
+
+.row{
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.table{
+  border: 1px solid;
+  
+  font-size: larger;
+}
+.table th{
+ padding: 10px;
+ margin: 10px;
+ color: blue;
+ border: 2px solid;
+}
+
+.table tr td{
+  padding: 10px;
+ margin: 10px;
+ color: blue;
+ border: 2px solid;
+}
+
+.table input[type="button"]{
+  color: blue;
+  background-color:  #4ccee8;
+  cursor: pointer;
+  border-radius: 20% solid;
+  font-size: larger;
+  
+}
